@@ -11,7 +11,7 @@ description: Experiences of the trackmyrace.com development team
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://www.trackmyrace.com/track/tmr-app.svg
 
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: mmistakes/minimal-mistakes
 
 #
 # Flags below are optional
